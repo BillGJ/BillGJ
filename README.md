@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I am Ebillson GRAND JEAN aka as @BillGJ 👋
 
 <!--
 **BillGJ/BillGJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+😎  I'm an iOS Software Engineer with deep expertise in Full-Stack Development (React/Angular, Spring/SpringBoot) and Mobile App Development (Native Android & Native iOS Development) , I possess 9 years’ experience.
+🧐  Currently working as an iOS Software Engineer/SME in the US
+👀  I’m interested in Job Roles in iOS Software Developement in the US.
+🌱  Proficient in Java, Python, JavaScript, Swift, Objective-C, UIKit, SwiftUI
+💞️  I’m looking to collaborate on any intresting concept or any brainstroming project which will solve users problems
