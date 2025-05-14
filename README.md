@@ -1,4 +1,4 @@
-## Hi there I am Ebillson GRAND JEAN aka as @BillGJ 👋
+## Hi there I am Ebillson GRAND JEAN aka @BillGJ 👋
 
 <!--
 **BillGJ/BillGJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
